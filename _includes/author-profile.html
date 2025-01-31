@@ -118,6 +118,9 @@
       {% if author.wikipedia %}
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
 {% endif %}
+     {% if author.csdn %}
+        <li><a href="https://blog.csdn.net/{{ author.csdn}}"><i class="fab fa-fw fa-csdn" aria-hidden="true"></i> CSDN</a></li>
+      {% endif %}
     </ul>
       <div class="author__urls_sm">
       {% if author.uri %}
@@ -214,7 +217,7 @@
         <a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i></a>
       {% endif %}
       {% if author.csdn %}
-       <a href="https://blog.csdn.net/{{ author.csdn}}"><i class="fab fa-fw fa-weibo" aria-hidden="true"></i></a>
+       <a href="https://blog.csdn.net/{{ author.csdn}}"><i class="fab fa-fw fa-csdn" aria-hidden="true"></i></a>
       {% endif %}
       
     </div>
