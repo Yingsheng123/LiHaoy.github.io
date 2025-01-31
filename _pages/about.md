@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# 🧑🏻‍🎓Biography
+# 🧑🏻‍🎓 Biography
 I received a B.S. degree in Automation from [Beijing Information Science and Technology University](https://www.bistu.edu.cn/), China, in 2023. I am currently working toward an M.S. degree in Control Engineering at the School of Astronautics, [Harbin Institute of Technology](https://www.hit.edu.cn/), Harbin , China.
 
 
@@ -31,7 +31,7 @@ I'm interested in Robotics, SLAM, 3dgs, 3D Vision and Embodied AI. Most of my re
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-- *2023.06*: &nbsp; 🎓Graduated from China University of Mining and Technology .
+- *2023.06*: &nbsp; 🎓 Graduated from China University of Mining and Technology .
 
 # 📝 Publications 
 
