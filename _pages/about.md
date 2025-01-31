@@ -51,8 +51,9 @@ Submitted to IEEE Transactions on Instrumentation and Measurement
 [//]: # (- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**)
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.04* The National Third prize of the NECCS
+- *2021.11* The National Second prize of the CUMCM
+- *2022.05* The First prize of the CSPC 
 
 # 📖 Educations
 - *2023.06 - 2026.06 (now)*, Harbin Institute of Technology, Control Engineering.
