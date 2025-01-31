@@ -34,13 +34,13 @@ I'm interested in Robotics, SLAM, 3dgs, 3D Vision and Embodied AI. Most of my re
 - *2023.06*: &nbsp; 🎓 Graduated from Beijing Information Science and Technology University .
 
 # 📝 Publications 
-
+* indicates equal contribution
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/MLINE-VINS/traj.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MLINE-VINS: Robust Monocular Visual-Inertial SLAM With Flow Manhattan and Line Features](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
-Chao Ye, **Haoyuan Li**, Weiyang Lin,  Xianqiang Yang*
+Chao Ye*, **Haoyuan Li***, Weiyang Lin,  Xianqiang Yang
  <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
