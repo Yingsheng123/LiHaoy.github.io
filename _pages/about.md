@@ -56,4 +56,4 @@ Submitted to IEEE Transactions on Instrumentation and Measurement
 
 # 📖 Educations
 - *2023.06 - 2026.06 (now)*, Harbin Institute of Technology, Control Engineering.
-- * 2019.09 - 2023.06*, B.S. Beijing Information Science and Technology University,  Automation.
+- *2019.09 - 2023.06*, B.S. Beijing Information Science and Technology University,  Automation.
