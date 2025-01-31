@@ -31,7 +31,7 @@ I'm interested in Robotics, SLAM, 3dgs, 3D Vision and Embodied AI. Most of my re
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-- *2023.06*: &nbsp; 🎓 Graduated from China University of Mining and Technology .
+- *2023.06*: &nbsp; 🎓 Graduated from Beijing Information Science and Technology University .
 
 # 📝 Publications 
 
