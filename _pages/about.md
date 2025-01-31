@@ -42,7 +42,7 @@ I'm interested in Robotics, SLAM, 3dgs, 3D Vision and Embodied AI. Most of my re
 
 Chao Ye\*, **Haoyuan Li**\*, Weiyang Lin,  Xianqiang Yang
  <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- novel monocular visual-inertial odometry (VIO) system that leverages line features and Manhattan Word assumption. 
+- A novel monocular visual-inertial odometry (VIO) system that leverages line features and Manhattan Word assumption. 
 </div>
 </div>
 
