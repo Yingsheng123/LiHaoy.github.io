@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # Biography
-I received a B.S. degree in Automation from Beijing Information Science and Technology University （BISTU）, China, in 2023. I am currently working toward an M.S. degree in Control Engineering at the School of Astronautics, Harbin Institute of Technology （HIT）,Harbin , China.
+I received a B.S. degree in Automation from Beijing Information Science and Technology University  (BISTU), China, in 2023. I am currently working toward an M.S. degree in Control Engineering at the School of Astronautics, Harbin Institute of Technology (HIT), Harbin , China.
 
 I was the recipient of the National Scholarship for Postgraduate at Northwestern Polytechnical University in 2024 and hold 5 Chinese invention patents.
 
