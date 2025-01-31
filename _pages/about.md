@@ -34,7 +34,7 @@ I'm interested in Robotics, SLAM, 3dgs, 3D Vision and Embodied AI. Most of my re
 - *2023.06*: &nbsp; 🎓 Graduated from Beijing Information Science and Technology University .
 
 # 📝 Publications 
-* indicates equal contribution
+*indicates equal contribution
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Trans</div><img src='images/MLINE-VINS/traj.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
