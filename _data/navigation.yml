@@ -9,6 +9,9 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
+  - title: "Project"
+    url: "/#-Project"
+
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
