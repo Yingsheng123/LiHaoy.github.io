@@ -70,7 +70,7 @@ sensor](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12500/
 # 📝 Project
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MCTE 2022</div><img src='images/design.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/design.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Design of motion pattern recognition system based on MPU6050 and pressure 
