@@ -67,7 +67,7 @@ sensor](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12500/
 
 
 [//]: # (- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**)
-# 📝 Project
+# 💻 Project
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2021-2022</div><img src='images/fig1-1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
