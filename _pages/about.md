@@ -70,19 +70,14 @@ sensor](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12500/
 # 📝 Project
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MCTE 2022</div><img src='images/design.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2021-2022</div><img src='images/fig1-1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Design of motion pattern recognition system based on MPU6050 and pressure 
-sensor](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12500/125001M/Design-of-motion-pattern-recognition-system-based-on-MPU6050-and/10.1117/12.2662807.short)
-
-**Haoyuan Li**\*, Xufeng Hu,  Jingxu Huang, Yang Wang
-
  <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Aimed at the defects of low accuracy of motion pattern recognition and large volume of measuring equipment, a motion pattern recognition system based on MPU6050 and pressure sensor is designed, and the overall structure of the system is given.  
+Consensus control of unknown nonlinear discrete-time multi-agent systems with nonuniform time-delays. 
 </div>
 </div>
-Consensus control of unknown nonlinear discrete-time multi-agent systems with nonuniform time-delays
+
 
 
 Remotely operated underwater vehicle（ROV) production
