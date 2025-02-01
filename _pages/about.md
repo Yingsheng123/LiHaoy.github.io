@@ -29,7 +29,8 @@ I'm interested in Robotics, SLAM, 3dgs, 3D Vision and Embodied AI. Most of my re
 
 
 # 🔥 News
-- *2024.12*: &nbsp;🎉🎉 The paper *MLINE-VINS: Robust Monocular Visual-Inertial SLAM With Flow Manhattan and Line Features* has been submitted to the IEEE Transactions on Instrumentation and Measurement
+- *2024.12*: &nbsp;🎉🎉 The paper *MLINE-VINS: Robust Monocular Visual-Inertial SLAM With Flow Manhattan and Line Features* has been submitted to the IEEE Transactions on Instrumentation and Measurement.
+- *2024.09*:&nbsp;🎉🎉 I won the first class scholarship of the HIT.
 - *2023.06*: &nbsp; 🎓 Graduated from Beijing Information Science and Technology University .
 
 # 📝 Publications 
@@ -46,6 +47,21 @@ Submitted to IEEE Transactions on Instrumentation and Measurement
 - A novel monocular visual-inertial odometry (VIO) system that leverages line features and Manhattan Word assumption. 
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MCTE 2022</div><img src='images/MLINE-VINS/traj.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Design of motion pattern recognition system based on MPU6050 and pressure 
+sensor](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12500/125001M/Design-of-motion-pattern-recognition-system-based-on-MPU6050-and/10.1117/12.2662807.short)
+
+**Haoyuan Li**\*, Xufeng Hu,  Jingxu Huang, Yang Wang
+
+Submitted to IEEE Transactions on Instrumentation and Measurement
+ <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- A novel monocular visual-inertial odometry (VIO) system that leverages line features and Manhattan Word assumption. 
+</div>
+</div>
+
 
 [//]: # (- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**)
 
