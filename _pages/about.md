@@ -68,8 +68,6 @@ sensor](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12500/
 
 [//]: # (- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**)
 # 📝 Project
-
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2021-2022</div><img src='images/fig1-1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -79,10 +77,23 @@ Consensus control of unknown nonlinear discrete-time multi-agent systems with no
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2020-2021</div><img src='images/ROV.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-Remotely operated underwater vehicle（ROV) production
+<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+Remotely operated underwater vehicle（ROV) production. 
+</div>
+</div>
 
-Chinese short message compression project 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2019-2020</div><img src='images/software.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+Chinese short message compression project. 
+</div>
+</div>
+
+
 # 🎖 Honors and Awards
 - *2024.09* The First Class Scholarship of the HIT
 - *2022.09* The Excellent good student of the BISTU(top 3%)
