@@ -51,9 +51,22 @@ Submitted to IEEE Transactions on Instrumentation and Measurement
 [//]: # (- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**)
 
 # 🎖 Honors and Awards
-- *2021.04* The National Third prize of the NECCS
+- *2024.09* The First Class Scholarship of the HIT
+- *2022.09* The Excellent good student of the BISTU(top 3%)
+- *2022.09* Science and technology innovation scholarship of the 
+BISTU
+- *2022.09* Excellent scholarship of the BISTU
+- *2022.05* The First prize of the CSPC
+- *2022.05* The First prize of “Blue Bridge Cup”
 - *2021.11* The National Second prize of the CUMCM
-- *2022.05* The First prize of the CSPC 
+- *2021.09* The Excellent good student of the BISTU(top 3%)
+- *2021.09* Science and technology innovation scholarship of the 
+BISTU
+- *2021.09* Excellent scholarship of the BISTU
+- *2021.04* The Third prize in RoboCup
+- *2021.04* The National Third prize of the NECCS
+- *2020.12* The Second prize of Beijing Mathematical Competition
+
 
 # 📖 Educations
 - *2023.06 - 2026.06 (now)*, Harbin Institute of Technology, Control Engineering.
