@@ -68,6 +68,9 @@ sensor](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12500/
 
 [//]: # (- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**)
 # 📝 Project
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> </div><img src='images/design.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+Consensus control of unknown nonlinear discrete-time multi-agent systems with nonuniform time-delays
 
 # 🎖 Honors and Awards
 - *2024.09* The First Class Scholarship of the HIT
