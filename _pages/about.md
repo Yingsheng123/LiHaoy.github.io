@@ -71,8 +71,10 @@ sensor](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12500/
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2021-2022</div><img src='images/fig1-1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 Consensus control of unknown nonlinear discrete-time multi-agent systems with nonuniform time-delays. 
+
+<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- This project investigates the data-driven consensus control for a class of unknown heterogeneous nonlinear multi-agent systems with non-uniform communication delay by using model free adaptive control (MFAC) method. The designed controller is distributed and data-driven with only using the agent itself and its neighbors data information without any model information.
 </div>
 </div>
 
