@@ -81,17 +81,19 @@ Consensus control of unknown nonlinear discrete-time multi-agent systems with no
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2020-2021</div><img src='images/ROV.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
-<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 Remotely operated underwater vehicle（ROV) production. 
+<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Based on STM32, MAX1482, DMA to achieve full duplex communication between upper and lower computers; Design the hardware circuit of the machine (DC-DC circuit; Communication circuit; Control circuit) and draw four layers of PCB board;
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2019-2020</div><img src='images/software.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 Chinese short message compression project. 
+
+<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Using Chinese word segmentation and adaptive Huffman coding to compress Chinese short messages
 </div>
 </div>
 
