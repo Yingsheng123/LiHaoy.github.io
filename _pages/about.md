@@ -42,9 +42,8 @@ I'm interested in Robotics, SLAM, 3dgs, 3D Vision and Embodied AI. Most of my re
 
 Chao Ye\*, **Haoyuan Li**\*, Weiyang Lin,  Xianqiang Yang
 
-Submitted to IEEE Transactions on Instrumentation and Measurement
  <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- A novel monocular visual-inertial odometry (VIO) system that leverages line features and Manhattan Word assumption. 
+- Aimed at the defects of low accuracy of motion pattern recognition and large volume of measuring equipment, a motion pattern recognition system based on MPU6050 and pressure sensor is designed, and the overall structure of the system is given.  
 </div>
 </div>
 
@@ -64,6 +63,7 @@ Submitted to IEEE Transactions on Instrumentation and Measurement
 
 
 [//]: # (- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**)
+# 📝 Project
 
 # 🎖 Honors and Awards
 - *2024.09* The First Class Scholarship of the HIT
