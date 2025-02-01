@@ -46,9 +46,11 @@ Chao Ye\*, **Haoyuan Li**\*, Weiyang Lin,  Xianqiang Yang
 Submitted to IEEE Transactions on Instrumentation and Measurement
 
  <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Aimed at the defects of low accuracy of motion pattern recognition and large volume of measuring equipment, a motion pattern recognition system based on MPU6050 and pressure sensor is designed, and the overall structure of the system is given.  
+- A novel monocular visual-inertial odometry (VIO) system that leverages line features and Manhattan Word assumption. 
 </div>
 </div>
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MCTE 2022</div><img src='images/design.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -58,9 +60,8 @@ sensor](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12500/
 
 **Haoyuan Li**\*, Xufeng Hu,  Jingxu Huang, Yang Wang
 
-
  <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- A novel monocular visual-inertial odometry (VIO) system that leverages line features and Manhattan Word assumption. 
+- Aimed at the defects of low accuracy of motion pattern recognition and large volume of measuring equipment, a motion pattern recognition system based on MPU6050 and pressure sensor is designed, and the overall structure of the system is given.  
 </div>
 </div>
 
