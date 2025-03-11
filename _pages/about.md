@@ -37,7 +37,7 @@ I'm interested in Robotics, SLAM, 3dgs, 3D Vision, VLM and Embodied AI. Most of 
 
 # 📝 Publications 
 \* indicates equal contribution
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2025</div><img src='images/DQO-MAP/example.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2025</div><img src='images/DQO-MAP/example.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [DQO-MAP: Dual Quadrics Multi-Object mapping with Gaussian Splatting](https://arxiv.org/pdf/2503.02223)
