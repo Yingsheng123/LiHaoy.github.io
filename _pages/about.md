@@ -29,6 +29,7 @@ I'm interested in Robotics, SLAM, 3dgs, 3D Vision, VLM and Embodied AI. Most of 
 
 
 # 🔥 News
+- *2025.03*: &nbsp;🎉🎉 The paper *DQO-MAP: Dual Quadrics Multi-Object mapping with Gaussian Splatting* has been submitted to the IROS2025.
 - *2024.12*: &nbsp;🎉🎉 The paper *MLINE-VINS: Robust Monocular Visual-Inertial SLAM With Flow Manhattan and Line Features* has been submitted to the IEEE Transactions on Instrumentation and Measurement.
 - *2024.09*:  &nbsp;✏️ I have taken on the role of student editor for the journal IEEE Transactions on Industrial Informatics.
 - *2024.09*:&nbsp;🎉🎉 I won the first class scholarship of the HIT.
