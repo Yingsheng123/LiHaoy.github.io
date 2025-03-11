@@ -39,6 +39,23 @@ I'm interested in Robotics, SLAM, 3dgs, 3D Vision, VLM and Embodied AI. Most of 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Trans/Journal</div><img src='images/MLINE-VINS/traj.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+[DQO-MAP: Dual Quadrics Multi-Object mapping with Gaussian Splatting](https://arxiv.org/pdf/2503.02223)
+
+
+**Haoyuan Li**, Ziqin Ye, Yue Hao, Weiyang Lin, Chao Ye
+
+Submitted to IROS2025
+
+ <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- A novel monocular visual-inertial odometry (VIO) system that leverages line features and Manhattan Word assumption. 
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Trans/Journal</div><img src='images/MLINE-VINS/traj.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 [MLINE-VINS: Robust Monocular Visual-Inertial SLAM With Flow Manhattan and Line Features](https://arxiv.org/pdf/2503.01571)
 
 Chao Ye\*, **Haoyuan Li**\*, Weiyang Lin,  Xianqiang Yang
