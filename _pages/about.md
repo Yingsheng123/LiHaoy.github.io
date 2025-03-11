@@ -64,7 +64,7 @@ Chao Ye\*, **Haoyuan Li**\*, Weiyang Lin,  Xianqiang Yang
 Submitted to IEEE Transactions on Instrumentation and Measurement
 
  <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- A novel monocular visual-inertial odometry (VIO) system that leverages line features and Manhattan Word assumption. 
+- In this paper we introduce MLINE-VINS, a novel monocular visual-inertial odometry (VIO) system that leverages line features and Manhattan Word assumption. Specifically, for line matching process, we propose a novel geometric line optical flow algorithm that efficiently tracks line features with varying lengths, whitch is do not require detections and descriptors in every frame. To address the instability of Manhattan estimation from line features, we propose a tracking-by-detection module that consistently tracks and optimizes Manhattan framse in consecutive images. By aligning the Manhattan World with the VIO world frame, the tracking could restart using the latest pose from back-end, simplifying the coordinate transformations within the system. Furthermore, we implement a mechanism to validate Manhattan frames and a novel global structural constraints back-end optimization
 </div>
 </div>
 
