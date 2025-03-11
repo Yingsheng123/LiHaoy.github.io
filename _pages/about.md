@@ -39,7 +39,7 @@ I'm interested in Robotics, SLAM, 3dgs, 3D Vision, VLM and Embodied AI. Most of 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Trans/Journal</div><img src='images/MLINE-VINS/traj.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[MLINE-VINS: Robust Monocular Visual-Inertial SLAM With Flow Manhattan and Line Features](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[MLINE-VINS: Robust Monocular Visual-Inertial SLAM With Flow Manhattan and Line Features](https://arxiv.org/pdf/2503.01571)
 
 Chao Ye\*, **Haoyuan Li**\*, Weiyang Lin,  Xianqiang Yang
 
