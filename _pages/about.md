@@ -41,6 +41,8 @@ I'm interested in Robotics, SLAM, 3dgs, 3D Vision, VLM and Embodied AI. Most of 
 <div class='paper-box-text' markdown="1">
 
 [DQO-MAP: Dual Quadrics Multi-Object mapping with Gaussian Splatting](https://arxiv.org/pdf/2503.02223)
+
+
 [Video](https://www.bilibili.com/video/BV1qoVrzaEbJ/?spm_id_from=333.1387.homepage.video_card.click)
 
 **Haoyuan Li**, Ziqin Ye, Yue Hao, Weiyang Lin, Chao Ye
@@ -58,6 +60,8 @@ Submitted to IROS 2025
 <div class='paper-box-text' markdown="1">
 
 [MLINE-VINS: Robust Monocular Visual-Inertial SLAM With Flow Manhattan and Line Features](https://arxiv.org/abs/2503.01571)
+
+
 [Video](https://www.bilibili.com/video/BV1joVrzYEQN/?spm_id_from=333.1387.homepage.video_card.click&vd_source=a3b6b3c9fa798376b8455ccc7b7946f8)(https://arxiv.org/pdf/2503.01571)
 
 Chao Ye\*, **Haoyuan Li**\*, Weiyang Lin,  Xianqiang Yang
