@@ -57,7 +57,7 @@ Submitted to IROS 2025
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Trans/Journal</div><img src='images/MLINE-VINS/traj.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[MLINE-VINS: Robust Monocular Visual-Inertial SLAM With Flow Manhattan and Line Features]
+[MLINE-VINS: Robust Monocular Visual-Inertial SLAM With Flow Manhattan and Line Features](https://arxiv.org/abs/2503.01571)
 [Video](https://www.bilibili.com/video/BV1joVrzYEQN/?spm_id_from=333.1387.homepage.video_card.click&vd_source=a3b6b3c9fa798376b8455ccc7b7946f8)(https://arxiv.org/pdf/2503.01571)
 
 Chao Ye\*, **Haoyuan Li**\*, Weiyang Lin,  Xianqiang Yang
